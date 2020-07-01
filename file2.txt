@@ -1,2 +1,4 @@
 modification of file 2
 Modify file 2 for 1 july
+Adding this message for file 2 for git diff
+Adding this message for file 2 second time
