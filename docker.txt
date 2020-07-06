@@ -1,0 +1,1 @@
+File used for checking git fetch and git pull from cmd.
